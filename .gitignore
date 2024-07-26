@@ -1,0 +1,9 @@
+# PyCharm
+.idea/
+
+# Environments
+.env
+env/
+
+# Django stuff
+db.sqlite3
